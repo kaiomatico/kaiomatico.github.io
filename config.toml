@@ -2,6 +2,7 @@ title = "Kai Design"
 baseURL = "https://kaiomatico.github.io"
 languageCode = "de-de"
 theme = "ananke"
+publishDir = "docs"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
